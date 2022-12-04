@@ -1,0 +1,914 @@
+1) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+2) Ростовская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+3) Ростовская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+4) Ростовская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+5) Ростовская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+6) Ростовская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+7) Ростовская область_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+8) Ростовская область_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false 
+9) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+10) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+11) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+12) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+13) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+14) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_2 
+15) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+16) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+17) Ростовская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+18) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+19) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+20) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+21) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+22) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_1 
+23) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+24) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+25) Ростовская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+26) Ростовская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+27) Ростовская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+28) Ростовская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+29) Ростовская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+30) Ростовская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+31) Ростовская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+32) Ростовская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+33) Ростовская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+34) Ростовская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[0] 
+35) Ростовская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+36) Ростовская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+37) Ростовская область_Сварщик_AND is_vahta = true_[0] 
+38) Ростовская область_Сварщик_AND is_vahta = true_[1] 
+39) Ростовская область_Сварщик_AND is_vahta = true_[2, 3] 
+40) Ростовская область_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+41) Ростовская область_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+42) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+43) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+44) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+45) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+46) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+47) Ростовская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+48) Ростовская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+49) Ростовская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+50) Ростовская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+51) Ростовская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+52) Ростовская область_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_1 
+53) Ростовская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+54) Ростовская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+55) Ростовская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+56) Ростовская область_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+57) Ростовская область_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_1 
+58) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+59) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+60) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+61) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+62) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+63) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_1 
+64) Ростовская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+65) Ростовская область_Водитель автомобиля легкового_AND is_vahta = true_0 
+66) Ростовская область_Водитель автомобиля легкового_AND is_vahta = true_1 
+67) Ростовская область_Водитель автомобиля легкового_AND is_vahta = true_2 
+68) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+69) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+70) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+71) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+72) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+73) Ростовская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+74) Ростовская область_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+75) Ростовская область_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+76) Ростовская область_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+77) Ростовская область_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+78) Ростовская область_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+79) Ростовская область_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+80) Ростовская область_Повар_AND is_multiple = 1 AND is_vahta = false_0 
+81) Ростовская область_Повар_AND is_multiple = 1 AND is_vahta = false_1 
+82) Ростовская область_Повар_AND is_vahta = true_0 
+83) Ростовская область_Повар_AND is_vahta = true_1 
+84) Ростовская область_Повар_AND is_vahta = true_2 
+85) Ростовская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[0] 
+86) Ростовская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[1] 
+87) Ростовская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+88) Ростовская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[0] 
+89) Ростовская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[1] 
+90) Ростовская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+91) Ростовская область_Токарь_AND is_vahta = true_[0] 
+92) Ростовская область_Токарь_AND is_vahta = true_[1] 
+93) Ростовская область_Токарь_AND is_vahta = true_[2, 3] 
+94) Ростовская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+95) Ростовская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+96) Ростовская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+97) Ростовская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+98) Ростовская область_Электромонтажник _ Электромонтер_AND is_vahta = true_0 
+99) Ростовская область_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+100) Ростовская область_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+101) Ростовская область_Программист_AND is_multiple = 0 AND is_vahta = false_0 
+102) Ростовская область_Программист_AND is_multiple = 0 AND is_vahta = false_1 
+103) Ростовская область_Программист_AND is_multiple = 0 AND is_vahta = false_2 
+104) Ростовская область_Программист_AND is_multiple = 1 AND is_vahta = false_1 
+105) Ростовская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_0 
+106) Ростовская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_1 
+107) Ростовская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_0 
+108) Ростовская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_1 
+109) Ростовская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+110) Ростовская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+111) Ростовская область_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+112) Ростовская область_Грузчик_AND is_vahta = true_0 
+113) Ростовская область_Грузчик_AND is_vahta = true_1 
+114) Ростовская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+115) Ростовская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+116) Ростовская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+117) Ростовская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+118) Ростовская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+119) Ростовская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+120) Ростовская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+121) Ростовская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+122) Ростовская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+123) Ростовская область_Специалист по персоналу_AND is_vahta = true_1 
+124) Ростовская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+125) Ростовская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+126) Ростовская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+127) Ростовская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_1 
+128) Ростовская область_Инженер (обобщ)_AND is_vahta = true_1 
+129) Ростовская область_Инженер (обобщ)_AND is_vahta = true_2 
+130) Ростовская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+131) Ростовская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+132) Ростовская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+133) Ростовская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_1 
+134) Ростовская область_Слесарь_AND is_vahta = true_0 
+135) Ростовская область_Слесарь_AND is_vahta = true_1 
+136) Ростовская область_Слесарь_AND is_vahta = true_2 
+137) Ростовская область_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_0 
+138) Ростовская область_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_1 
+139) Ростовская область_Рабочий строительный_AND is_multiple = 1 AND is_vahta = false_0 
+140) Ростовская область_Рабочий строительный_AND is_vahta = true_0 
+141) Ростовская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+142) Ростовская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+143) Ростовская область_Подсобный рабочий_AND is_vahta = true_0 
+144) Ростовская область_Подсобный рабочий_AND is_vahta = true_1 
+145) Ростовская область_Охранник_AND is_multiple = 0 AND is_vahta = false_0 
+146) Ростовская область_Охранник_AND is_multiple = 0 AND is_vahta = false_1 
+147) Ростовская область_Охранник_AND is_multiple = 1 AND is_vahta = false_0 
+148) Ростовская область_Охранник_AND is_vahta = true_0 
+149) Московская область_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+150) Московская область_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false
+151) Московская область_Продавец-кассир_AND is_vahta = true
+152) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+153) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+154) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+155) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+156) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_1 
+157) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_2 
+158) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+159) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+160) Московская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+161) Московская область_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+162) Московская область_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+163) Московская область_Продавец-консультант_AND is_vahta = true 
+164) Московская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+165) Московская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+166) Московская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+167) Московская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+168) Московская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+169) Московская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_2 
+170) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+171) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+172) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+173) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+174) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+175) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_2 
+176) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+177) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+178) Московская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+179) Московская область_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+180) Московская область_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+181) Московская область_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+182) Московская область_Повар_AND is_multiple = 0 AND is_vahta = false_3 
+183) Московская область_Повар_AND is_multiple = 1 AND is_vahta = false_0 
+184) Московская область_Повар_AND is_multiple = 1 AND is_vahta = false_1 
+185) Московская область_Повар_AND is_multiple = 1 AND is_vahta = false_2 
+186) Московская область_Повар_AND is_vahta = true_0 
+187) Московская область_Повар_AND is_vahta = true_1 
+188) Московская область_Повар_AND is_vahta = true_2 
+189) Московская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+190) Московская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+191) Московская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+192) Московская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+193) Московская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+194) Московская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_2 
+195) Московская область_Менеджер по работе с клиентами_AND is_vahta = true_2 
+196) Московская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+197) Московская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+198) Московская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+199) Московская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+200) Московская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+201) Московская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_1 
+202) Московская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+203) Московская область_Водитель автомобиля легкового_AND is_vahta = true_0 
+204) Московская область_Водитель автомобиля легкового_AND is_vahta = true_1 
+205) Московская область_Водитель автомобиля легкового_AND is_vahta = true_2 
+206) Московская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+207) Московская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+208) Московская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+209) Московская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_3 
+210) Московская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+211) Московская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+212) Московская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+213) Московская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_3 
+214) Московская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+215) Московская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+216) Московская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_2 
+217) Московская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+218) Московская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_1 
+219) Московская область_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+220) Московская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+221) Московская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+222) Московская область_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+223) Московская область_Грузчик_AND is_multiple = 1 AND is_vahta = false_1 
+224) Московская область_Грузчик_AND is_vahta = true_0 
+225) Московская область_Грузчик_AND is_vahta = true_1 
+226) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+227) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+228) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+229) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_3 
+230) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+231) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+232) Московская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+233) Московская область_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+234) Московская область_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+235) Московская область_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+236) Московская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+237) Московская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+238) Московская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+239) Московская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[0] 
+240) Московская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+241) Московская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+242) Московская область_Сварщик_AND is_vahta = true_[0] 
+243) Московская область_Сварщик_AND is_vahta = true_[1] 
+244) Московская область_Сварщик_AND is_vahta = true_[2, 3] 
+245) Московская область_Кассир_AND is_multiple = 0 AND is_vahta = false_0 
+246) Московская область_Кассир_AND is_multiple = 0 AND is_vahta = false_1 
+247) Московская область_Кассир_AND is_multiple = 1 AND is_vahta = false_0 
+248) Московская область_Кассир_AND is_multiple = 1 AND is_vahta = false_1 
+249) Московская область_Кассир_AND is_vahta = true_0 
+250) Московская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+251) Московская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+252) Московская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+253) Московская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+254) Московская область_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_0 
+255) Московская область_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_1 
+256) Московская область_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_2 
+257) Московская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+258) Московская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+259) Московская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+260) Московская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+261) Московская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_1 
+262) Московская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_2 
+263) Московская область_Охранник_AND is_multiple = 0 AND is_vahta = false_0 
+264) Московская область_Охранник_AND is_multiple = 0 AND is_vahta = false_1 
+265) Московская область_Охранник_AND is_multiple = 0 AND is_vahta = false_2 
+266) Московская область_Охранник_AND is_multiple = 1 AND is_vahta = false_0 
+267) Московская область_Охранник_AND is_multiple = 1 AND is_vahta = false_1 
+268) Московская область_Охранник_AND is_multiple = 1 AND is_vahta = false_2 
+269) Московская область_Охранник_AND is_vahta = true_0 
+270) Московская область_Охранник_AND is_vahta = true_1 
+271) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+272) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+273) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+274) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_0 
+275) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+276) Московская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_2 
+277) Московская область_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+278) Московская область_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+279) Московская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_0 
+280) Московская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_1 
+281) Московская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_2 
+282) Московская область_Директор магазина_AND is_multiple = 1 AND is_vahta = false_0 
+283) Московская область_Директор магазина_AND is_multiple = 1 AND is_vahta = false_1 
+284) Московская область_Бармен _ Официант _ Бариста_AND is_multiple = 0 AND is_vahta = false_0 
+285) Московская область_Бармен _ Официант _ Бариста_AND is_multiple = 0 AND is_vahta = false_1 
+286) Московская область_Бармен _ Официант _ Бариста_AND is_multiple = 1 AND is_vahta = false_0 
+287) Московская область_Бармен _ Официант _ Бариста_AND is_multiple = 1 AND is_vahta = false_1 
+288) Московская область_Бармен _ Официант _ Бариста_AND is_vahta = true_0 
+289) Московская область_Бармен _ Официант _ Бариста_AND is_vahta = true_1 
+290) Московская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+291) Московская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+292) Московская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+293) Московская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+294) Московская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+295) Московская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_2 
+296) Московская область_Специалист по персоналу_AND is_vahta = true_1 
+297) Московская область_Курьер, велокурьер_AND is_multiple = 0 AND is_vahta = false_0 
+298) Московская область_Курьер, велокурьер_AND is_multiple = 0 AND is_vahta = false_1 
+299) Московская область_Курьер, велокурьер_AND is_multiple = 1 AND is_vahta = false_0 
+300) Московская область_Курьер, велокурьер_AND is_vahta = true_0 
+301) Московская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+302) Московская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+303) Московская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+304) Московская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_3 
+305) Московская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_0 
+306) Московская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_1 
+307) Московская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_2 
+308) Московская область_Инженер (обобщ)_AND is_vahta = true_1 
+309) Московская область_Инженер (обобщ)_AND is_vahta = true_2 
+310) Московская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+311) Московская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+312) Московская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+313) Московская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_0 
+314) Московская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_1 
+315) Московская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_2 
+316) Московская область_Слесарь_AND is_vahta = true_0 
+317) Московская область_Слесарь_AND is_vahta = true_1 
+318) Московская область_Слесарь_AND is_vahta = true_2 
+319) Московская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+320) Московская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+321) Московская область_Подсобный рабочий_AND is_multiple = 1 AND is_vahta = false_0 
+322) Московская область_Подсобный рабочий_AND is_vahta = true_0 
+323) Московская область_Подсобный рабочий_AND is_vahta = true_1 
+324) Московская область_Подсобный рабочий_AND is_vahta = true_2 
+325) Краснодарский край_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+326) Краснодарский край_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+327) Краснодарский край_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+328) Краснодарский край_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_3 
+329) Краснодарский край_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+330) Краснодарский край_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+331) Краснодарский край_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_2 
+332) Краснодарский край_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+333) Краснодарский край_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+334) Краснодарский край_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+335) Краснодарский край_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+336) Краснодарский край_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_1 
+337) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+338) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+339) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+340) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+341) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+342) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_2 
+343) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+344) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+345) Краснодарский край_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+346) Краснодарский край_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+347) Краснодарский край_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false 
+348) Краснодарский край_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+349) Краснодарский край_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+350) Краснодарский край_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+351) Краснодарский край_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+352) Краснодарский край_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+353) Краснодарский край_Менеджер по работе с клиентами_AND is_vahta = true_2 
+354) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+355) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+356) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+357) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_3 
+358) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+359) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+360) Краснодарский край_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+361) Краснодарский край_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+362) Краснодарский край_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+363) Краснодарский край_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+364) Краснодарский край_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+365) Краснодарский край_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+366) Краснодарский край_Повар_AND is_multiple = 0 AND is_vahta = false_3 
+367) Краснодарский край_Повар_AND is_multiple = 1 AND is_vahta = false_0 
+368) Краснодарский край_Повар_AND is_multiple = 1 AND is_vahta = false_1 
+369) Краснодарский край_Повар_AND is_multiple = 1 AND is_vahta = false_2 
+370) Краснодарский край_Повар_AND is_vahta = true_0 
+371) Краснодарский край_Повар_AND is_vahta = true_1 
+372) Краснодарский край_Повар_AND is_vahta = true_2 
+373) Краснодарский край_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+374) Краснодарский край_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+375) Краснодарский край_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+376) Краснодарский край_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+377) Краснодарский край_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+378) Краснодарский край_Сварщик_AND is_vahta = true_[0] 
+379) Краснодарский край_Сварщик_AND is_vahta = true_[1] 
+380) Краснодарский край_Сварщик_AND is_vahta = true_[2, 3] 
+381) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+382) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+383) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_2 
+384) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+385) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_1 
+386) Краснодарский край_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+387) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+388) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+389) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+390) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+391) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_1 
+392) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+393) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+394) Краснодарский край_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+395) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+396) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+397) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+398) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+399) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+400) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_1 
+401) Краснодарский край_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+402) Краснодарский край_Водитель автомобиля легкового_AND is_vahta = true_0 
+403) Краснодарский край_Водитель автомобиля легкового_AND is_vahta = true_1 
+404) Краснодарский край_Водитель автомобиля легкового_AND is_vahta = true_2 
+405) Краснодарский край_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+406) Краснодарский край_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+407) Краснодарский край_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+408) Краснодарский край_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+409) Краснодарский край_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_1 
+410) Краснодарский край_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_2 
+411) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+412) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+413) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+414) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_3 
+415) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+416) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+417) Краснодарский край_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+418) Краснодарский край_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+419) Краснодарский край_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+420) Краснодарский край_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+421) Краснодарский край_Бармен _ Официант _ Бариста_AND is_multiple = 0 AND is_vahta = false_0 
+422) Краснодарский край_Бармен _ Официант _ Бариста_AND is_multiple = 0 AND is_vahta = false_1 
+423) Краснодарский край_Бармен _ Официант _ Бариста_AND is_multiple = 0 AND is_vahta = false_2 
+424) Краснодарский край_Бармен _ Официант _ Бариста_AND is_multiple = 1 AND is_vahta = false_0 
+425) Краснодарский край_Бармен _ Официант _ Бариста_AND is_multiple = 1 AND is_vahta = false_1 
+426) Краснодарский край_Бармен _ Официант _ Бариста_AND is_vahta = true_0 
+427) Краснодарский край_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+428) Краснодарский край_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+429) Краснодарский край_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+430) Краснодарский край_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_0 
+431) Краснодарский край_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+432) Краснодарский край_Электромонтажник _ Электромонтер_AND is_vahta = true_0 
+433) Краснодарский край_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+434) Краснодарский край_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+435) Краснодарский край_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+436) Краснодарский край_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+437) Краснодарский край_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+438) Краснодарский край_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+439) Краснодарский край_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+440) Краснодарский край_Специалист по персоналу_AND is_vahta = true_1 
+441) Краснодарский край_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+442) Краснодарский край_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+443) Краснодарский край_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+444) Краснодарский край_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_3 
+445) Краснодарский край_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_1 
+446) Краснодарский край_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_2 
+447) Краснодарский край_Инженер (обобщ)_AND is_vahta = true_1 
+448) Краснодарский край_Инженер (обобщ)_AND is_vahta = true_2 
+449) Краснодарский край_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_0 
+450) Краснодарский край_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_1 
+451) Краснодарский край_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_0 
+452) Краснодарский край_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_1 
+453) Краснодарский край_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+454) Краснодарский край_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+455) Краснодарский край_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_2 
+456) Краснодарский край_Подсобный рабочий_AND is_multiple = 1 AND is_vahta = false_0 
+457) Краснодарский край_Подсобный рабочий_AND is_vahta = true_0 
+458) Краснодарский край_Подсобный рабочий_AND is_vahta = true_1 
+459) Краснодарский край_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+460) Краснодарский край_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+461) Краснодарский край_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+462) Краснодарский край_Грузчик_AND is_vahta = true_0 
+463) Краснодарский край_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+464) Краснодарский край_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+465) Краснодарский край_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+466) Краснодарский край_Слесарь_AND is_multiple = 1 AND is_vahta = false_0 
+467) Краснодарский край_Слесарь_AND is_multiple = 1 AND is_vahta = false_1 
+468) Краснодарский край_Слесарь_AND is_vahta = true_0 
+469) Краснодарский край_Слесарь_AND is_vahta = true_1 
+470) Краснодарский край_Слесарь_AND is_vahta = true_2 
+471) Краснодарский край_Охранник_AND is_multiple = 0 AND is_vahta = false_0 
+472) Краснодарский край_Охранник_AND is_multiple = 0 AND is_vahta = false_1 
+473) Краснодарский край_Охранник_AND is_multiple = 0 AND is_vahta = false_2 
+474) Краснодарский край_Охранник_AND is_multiple = 1 AND is_vahta = false_0 
+475) Краснодарский край_Охранник_AND is_vahta = true_0 
+476) Краснодарский край_Программист_AND is_multiple = 0 AND is_vahta = false_0 
+477) Краснодарский край_Программист_AND is_multiple = 0 AND is_vahta = false_1 
+478) Краснодарский край_Программист_AND is_multiple = 0 AND is_vahta = false_2 
+479) Краснодарский край_Программист_AND is_multiple = 1 AND is_vahta = false_1 
+480) Краснодарский край_Программист_AND is_multiple = 1 AND is_vahta = false_2 
+481) Краснодарский край_Воспитатель_AND is_multiple = 0 AND is_vahta = false_0 
+482) Краснодарский край_Воспитатель_AND is_multiple = 0 AND is_vahta = false_1 
+483) Краснодарский край_Воспитатель_AND is_multiple = 0 AND is_vahta = false_2 
+484) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+485) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+486) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+487) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+488) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+489) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_2 
+490) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+491) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+492) Республика Башкортостан_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+493) Республика Башкортостан_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+494) Республика Башкортостан_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+495) Республика Башкортостан_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+496) Республика Башкортостан_Сварщик_AND is_multiple = 1 AND is_vahta = false_[0] 
+497) Республика Башкортостан_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+498) Республика Башкортостан_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+499) Республика Башкортостан_Сварщик_AND is_vahta = true_[0] 
+500) Республика Башкортостан_Сварщик_AND is_vahta = true_[1] 
+501) Республика Башкортостан_Сварщик_AND is_vahta = true_[2, 3] 
+502) Республика Башкортостан_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+503) Республика Башкортостан_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false 
+504) Республика Башкортостан_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+505) Республика Башкортостан_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+506) Республика Башкортостан_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+507) Республика Башкортостан_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+508) Республика Башкортостан_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+509) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+510) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+511) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+512) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+513) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+514) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+515) Республика Башкортостан_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_3 
+516) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+517) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+518) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+519) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+520) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+521) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_1 
+522) Республика Башкортостан_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+523) Республика Башкортостан_Водитель автомобиля легкового_AND is_vahta = true_0 
+524) Республика Башкортостан_Водитель автомобиля легкового_AND is_vahta = true_1 
+525) Республика Башкортостан_Водитель автомобиля легкового_AND is_vahta = true_2 
+526) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+527) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+528) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+529) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+530) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+531) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+532) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+533) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+534) Республика Башкортостан_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+535) Республика Башкортостан_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+536) Республика Башкортостан_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+537) Республика Башкортостан_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+538) Республика Башкортостан_Повар_AND is_vahta = true_0 
+539) Республика Башкортостан_Повар_AND is_vahta = true_1 
+540) Республика Башкортостан_Повар_AND is_vahta = true_2 
+541) Республика Башкортостан_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+542) Республика Башкортостан_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+543) Республика Башкортостан_Продавец-консультант_AND is_vahta = true 
+544) Республика Башкортостан_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+545) Республика Башкортостан_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+546) Республика Башкортостан_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_2 
+547) Республика Башкортостан_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+548) Республика Башкортостан_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+549) Республика Башкортостан_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+550) Республика Башкортостан_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+551) Республика Башкортостан_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+552) Республика Башкортостан_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+553) Республика Башкортостан_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+554) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+555) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+556) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+557) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_0 
+558) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+559) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_vahta = true_0 
+560) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+561) Республика Башкортостан_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+562) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+563) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+564) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+565) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+566) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+567) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+568) Республика Башкортостан_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+569) Республика Башкортостан_Токарь_AND is_multiple = 0 AND is_vahta = false_[0] 
+570) Республика Башкортостан_Токарь_AND is_multiple = 0 AND is_vahta = false_[1] 
+571) Республика Башкортостан_Токарь_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+572) Республика Башкортостан_Токарь_AND is_multiple = 1 AND is_vahta = false_[1] 
+573) Республика Башкортостан_Токарь_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+574) Республика Башкортостан_Токарь_AND is_vahta = true_[0] 
+575) Республика Башкортостан_Токарь_AND is_vahta = true_[1] 
+576) Республика Башкортостан_Токарь_AND is_vahta = true_[2, 3] 
+577) Республика Башкортостан_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+578) Республика Башкортостан_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+579) Республика Башкортостан_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+580) Республика Башкортостан_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+581) Республика Башкортостан_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+582) Республика Башкортостан_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+583) Республика Башкортостан_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+584) Республика Башкортостан_Инженер (обобщ)_AND is_vahta = true_1 
+585) Республика Башкортостан_Инженер (обобщ)_AND is_vahta = true_2 
+586) Республика Башкортостан_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+587) Республика Башкортостан_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+588) Республика Башкортостан_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+589) Республика Башкортостан_Слесарь_AND is_multiple = 1 AND is_vahta = false_1 
+590) Республика Башкортостан_Слесарь_AND is_vahta = true_0 
+591) Республика Башкортостан_Слесарь_AND is_vahta = true_1 
+592) Республика Башкортостан_Слесарь_AND is_vahta = true_2 
+593) Республика Башкортостан_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+594) Республика Башкортостан_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+595) Республика Башкортостан_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+596) Республика Башкортостан_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+597) Республика Башкортостан_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+598) Республика Башкортостан_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+599) Республика Башкортостан_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+600) Республика Башкортостан_Грузчик_AND is_vahta = true_0 
+601) Республика Башкортостан_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+602) Республика Башкортостан_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+603) Республика Башкортостан_Подсобный рабочий_AND is_multiple = 1 AND is_vahta = false_0 
+604) Республика Башкортостан_Подсобный рабочий_AND is_vahta = true_0 
+605) Республика Башкортостан_Подсобный рабочий_AND is_vahta = true_1 
+606) Республика Башкортостан_Подсобный рабочий_AND is_vahta = true_2 
+607) Республика Башкортостан_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_0 
+608) Республика Башкортостан_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_1 
+609) Республика Башкортостан_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_0 
+610) Республика Башкортостан_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_1 
+611) Республика Башкортостан_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+612) Республика Башкортостан_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+613) Республика Башкортостан_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+614) Республика Башкортостан_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+615) Республика Башкортостан_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+616) Республика Башкортостан_Специалист по персоналу_AND is_vahta = true_1 
+617) Республика Башкортостан_Директор магазина_AND is_multiple = 0 AND is_vahta = false_0 
+618) Республика Башкортостан_Директор магазина_AND is_multiple = 0 AND is_vahta = false_1 
+619) Республика Башкортостан_Директор магазина_AND is_multiple = 0 AND is_vahta = false_2 
+620) Республика Башкортостан_Директор магазина_AND is_multiple = 1 AND is_vahta = false_1 
+621) Республика Башкортостан_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_0 
+622) Республика Башкортостан_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_1 
+623) Республика Башкортостан_Рабочий строительный_AND is_multiple = 1 AND is_vahta = false_0 
+624) Республика Башкортостан_Рабочий строительный_AND is_vahta = true_0 
+625) Республика Башкортостан_Рабочий строительный_AND is_vahta = true_1 
+626) Республика Башкортостан_Охранник_AND is_multiple = 0 AND is_vahta = false_0 
+627) Республика Башкортостан_Охранник_AND is_multiple = 0 AND is_vahta = false_1 
+628) Республика Башкортостан_Охранник_AND is_vahta = true_0 
+629) Нижегородская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+630) Нижегородская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+631) Нижегородская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+632) Нижегородская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+633) Нижегородская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+634) Нижегородская область_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+635) Нижегородская область_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false 
+636) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+637) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+638) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+639) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+640) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+641) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+642) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+643) Нижегородская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+644) Нижегородская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+645) Нижегородская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+646) Нижегородская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+647) Нижегородская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+648) Нижегородская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+649) Нижегородская область_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+650) Нижегородская область_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+651) Нижегородская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+652) Нижегородская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+653) Нижегородская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+654) Нижегородская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[0] 
+655) Нижегородская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+656) Нижегородская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+657) Нижегородская область_Сварщик_AND is_vahta = true_[0] 
+658) Нижегородская область_Сварщик_AND is_vahta = true_[1] 
+659) Нижегородская область_Сварщик_AND is_vahta = true_[2, 3] 
+660) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+661) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+662) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+663) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+664) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+665) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+666) Нижегородская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+667) Нижегородская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+668) Нижегородская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+669) Нижегородская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+670) Нижегородская область_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+671) Нижегородская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+672) Нижегородская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+673) Нижегородская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+674) Нижегородская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+675) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+676) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+677) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+678) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+679) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+680) Нижегородская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+681) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+682) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+683) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+684) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+685) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+686) Нижегородская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+687) Нижегородская область_Водитель автомобиля легкового_AND is_vahta = true_0 
+688) Нижегородская область_Водитель автомобиля легкового_AND is_vahta = true_1 
+689) Нижегородская область_Водитель автомобиля легкового_AND is_vahta = true_2 
+690) Нижегородская область_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+691) Нижегородская область_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+692) Нижегородская область_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+693) Нижегородская область_Повар_AND is_multiple = 1 AND is_vahta = false_0 
+694) Нижегородская область_Повар_AND is_multiple = 1 AND is_vahta = false_1 
+695) Нижегородская область_Повар_AND is_vahta = true_0 
+696) Нижегородская область_Повар_AND is_vahta = true_1 
+697) Нижегородская область_Повар_AND is_vahta = true_2 
+698) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+699) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+700) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+701) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+702) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+703) Нижегородская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+704) Нижегородская область_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+705) Нижегородская область_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+706) Нижегородская область_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+707) Нижегородская область_Программист_AND is_multiple = 0 AND is_vahta = false_0 
+708) Нижегородская область_Программист_AND is_multiple = 0 AND is_vahta = false_1 
+709) Нижегородская область_Программист_AND is_multiple = 0 AND is_vahta = false_2 
+710) Нижегородская область_Программист_AND is_multiple = 1 AND is_vahta = false_1 
+711) Нижегородская область_Программист_AND is_multiple = 1 AND is_vahta = false_2 
+712) Нижегородская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[0] 
+713) Нижегородская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[1] 
+714) Нижегородская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+715) Нижегородская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+716) Нижегородская область_Токарь_AND is_vahta = true_[0] 
+717) Нижегородская область_Токарь_AND is_vahta = true_[1] 
+718) Нижегородская область_Токарь_AND is_vahta = true_[2, 3] 
+719) Нижегородская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+720) Нижегородская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+721) Нижегородская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+722) Нижегородская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+723) Нижегородская область_Электромонтажник _ Электромонтер_AND is_vahta = true_0 
+724) Нижегородская область_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+725) Нижегородская область_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+726) Нижегородская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+727) Нижегородская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+728) Нижегородская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+729) Нижегородская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+730) Нижегородская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+731) Нижегородская область_Специалист по персоналу_AND is_vahta = true_1 
+732) Нижегородская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+733) Нижегородская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+734) Нижегородская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+735) Нижегородская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_1 
+736) Нижегородская область_Инженер (обобщ)_AND is_vahta = true_1 
+737) Нижегородская область_Инженер (обобщ)_AND is_vahta = true_2 
+738) Нижегородская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+739) Нижегородская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+740) Нижегородская область_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+741) Нижегородская область_Грузчик_AND is_vahta = true_0 
+742) Нижегородская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_0 
+743) Нижегородская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_1 
+744) Нижегородская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_0 
+745) Нижегородская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_1 
+746) Нижегородская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+747) Нижегородская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+748) Нижегородская область_Подсобный рабочий_AND is_multiple = 1 AND is_vahta = false_0 
+749) Нижегородская область_Подсобный рабочий_AND is_vahta = true_0 
+750) Нижегородская область_Подсобный рабочий_AND is_vahta = true_1 
+751) Нижегородская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+752) Нижегородская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+753) Нижегородская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+754) Нижегородская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_0 
+755) Нижегородская область_Слесарь_AND is_vahta = true_0 
+756) Нижегородская область_Слесарь_AND is_vahta = true_1 
+757) Нижегородская область_Слесарь_AND is_vahta = true_2 
+758) Нижегородская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+759) Нижегородская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+760) Нижегородская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+761) Нижегородская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+762) Нижегородская область_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_0 
+763) Нижегородская область_Рабочий строительный_AND is_multiple = 0 AND is_vahta = false_1 
+764) Нижегородская область_Рабочий строительный_AND is_multiple = 1 AND is_vahta = false_0 
+765) Нижегородская область_Рабочий строительный_AND is_vahta = true_0 
+766) Нижегородская область_Рабочий строительный_AND is_vahta = true_1 
+767) Нижегородская область_Охранник_AND is_multiple = 0 AND is_vahta = false_0 
+768) Нижегородская область_Охранник_AND is_multiple = 0 AND is_vahta = false_1 
+769) Нижегородская область_Охранник_AND is_multiple = 1 AND is_vahta = false_0 
+770) Нижегородская область_Охранник_AND is_vahta = true_0 
+771) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_0 
+772) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_1 
+773) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 0 AND is_vahta = false_2 
+774) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_0 
+775) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_1 
+776) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_multiple = 1 AND is_vahta = false_2 
+777) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_0 
+778) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_1 
+779) Челябинская область_Машинист _ Водитель погрузочно-разгрузочных, дорожных  машин _ Тракторист_AND is_vahta = true_2 
+780) Челябинская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[0] 
+781) Челябинская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[1] 
+782) Челябинская область_Сварщик_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+783) Челябинская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[0] 
+784) Челябинская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[1] 
+785) Челябинская область_Сварщик_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+786) Челябинская область_Сварщик_AND is_vahta = true_[0] 
+787) Челябинская область_Сварщик_AND is_vahta = true_[1] 
+788) Челябинская область_Сварщик_AND is_vahta = true_[2, 3] 
+789) Челябинская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_0 
+790) Челябинская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_1 
+791) Челябинская область_Специалист по продажам_AND is_multiple = 0 AND is_vahta = false_2 
+792) Челябинская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_0 
+793) Челябинская область_Специалист по продажам_AND is_multiple = 1 AND is_vahta = false_1 
+794) Челябинская область_Продавец-кассир_AND is_multiple = 0 AND is_vahta = false 
+795) Челябинская область_Продавец-кассир_AND is_multiple = 1 AND is_vahta = false 
+796) Челябинская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_0 
+797) Челябинская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_1 
+798) Челябинская область_Менеджер по работе с клиентами_AND is_multiple = 0 AND is_vahta = false_2 
+799) Челябинская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_0 
+800) Челябинская область_Менеджер по работе с клиентами_AND is_multiple = 1 AND is_vahta = false_1 
+801) Челябинская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_0 
+802) Челябинская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 0 AND is_vahta = false_1 
+803) Челябинская область_Уборщик _ Мойщик _ Дворник_AND is_multiple = 1 AND is_vahta = false_0 
+804) Челябинская область_Уборщик _ Мойщик _ Дворник_AND is_vahta = true_0 
+805) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_0 
+806) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_1 
+807) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 0 AND is_vahta = false_2 
+808) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_0 
+809) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_1 
+810) Челябинская область_Водитель автомобиля грузового_специального_AND is_multiple = 1 AND is_vahta = false_2 
+811) Челябинская область_Водитель автомобиля грузового_специального_AND is_vahta = true_0 
+812) Челябинская область_Водитель автомобиля грузового_специального_AND is_vahta = true_1 
+813) Челябинская область_Водитель автомобиля грузового_специального_AND is_vahta = true_2 
+814) Челябинская область_Продавец-консультант_AND is_multiple = 0 AND is_vahta = false 
+815) Челябинская область_Продавец-консультант_AND is_multiple = 1 AND is_vahta = false 
+816) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_0 
+817) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_1 
+818) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 0 AND is_vahta = false_2 
+819) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_0 
+820) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_1 
+821) Челябинская область_Преподаватель _  Учитель_AND is_multiple = 1 AND is_vahta = false_2 
+822) Челябинская область_Повар_AND is_multiple = 0 AND is_vahta = false_0 
+823) Челябинская область_Повар_AND is_multiple = 0 AND is_vahta = false_1 
+824) Челябинская область_Повар_AND is_multiple = 0 AND is_vahta = false_2 
+825) Челябинская область_Повар_AND is_multiple = 1 AND is_vahta = false_0 
+826) Челябинская область_Повар_AND is_multiple = 1 AND is_vahta = false_1 
+827) Челябинская область_Повар_AND is_vahta = true_0 
+828) Челябинская область_Повар_AND is_vahta = true_1 
+829) Челябинская область_Повар_AND is_vahta = true_2 
+830) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_0 
+831) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_1 
+832) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 0 AND is_vahta = false_2 
+833) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_multiple = 1 AND is_vahta = false_0 
+834) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_0 
+835) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_1 
+836) Челябинская область_Кладовщик _ Комплектовщик _ Оператор склада _ Сборщик заказов_AND is_vahta = true_2 
+837) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_0 
+838) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_1 
+839) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_2 
+840) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 0 AND is_vahta = false_3 
+841) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_0 
+842) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_1 
+843) Челябинская область_Водитель автомобиля легкового_AND is_multiple = 1 AND is_vahta = false_2 
+844) Челябинская область_Водитель автомобиля легкового_AND is_vahta = true_0 
+845) Челябинская область_Водитель автомобиля легкового_AND is_vahta = true_1 
+846) Челябинская область_Водитель автомобиля легкового_AND is_vahta = true_2 
+847) Челябинская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_0 
+848) Челябинская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_1 
+849) Челябинская область_Электромонтажник _ Электромонтер_AND is_multiple = 0 AND is_vahta = false_2 
+850) Челябинская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_0 
+851) Челябинская область_Электромонтажник _ Электромонтер_AND is_multiple = 1 AND is_vahta = false_1 
+852) Челябинская область_Электромонтажник _ Электромонтер_AND is_vahta = true_0 
+853) Челябинская область_Электромонтажник _ Электромонтер_AND is_vahta = true_1 
+854) Челябинская область_Электромонтажник _ Электромонтер_AND is_vahta = true_2 
+855) Челябинская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_0 
+856) Челябинская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_1 
+857) Челябинская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_2 
+858) Челябинская область_Бухгалтер_AND is_multiple = 0 AND is_vahta = false_3 
+859) Челябинская область_Бухгалтер_AND is_multiple = 1 AND is_vahta = false_1 
+860) Челябинская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[0] 
+861) Челябинская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[1] 
+862) Челябинская область_Токарь_AND is_multiple = 0 AND is_vahta = false_[2, 3] 
+863) Челябинская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[1] 
+864) Челябинская область_Токарь_AND is_multiple = 1 AND is_vahta = false_[2, 3] 
+865) Челябинская область_Токарь_AND is_vahta = true_[0] 
+866) Челябинская область_Токарь_AND is_vahta = true_[1] 
+867) Челябинская область_Токарь_AND is_vahta = true_[2, 3] 
+868) Челябинская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_0 
+869) Челябинская область_Подсобный рабочий_AND is_multiple = 0 AND is_vahta = false_1 
+870) Челябинская область_Подсобный рабочий_AND is_multiple = 1 AND is_vahta = false_0 
+871) Челябинская область_Подсобный рабочий_AND is_vahta = true_0 
+872) Челябинская область_Подсобный рабочий_AND is_vahta = true_1 
+873) Челябинская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_0 
+874) Челябинская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_1 
+875) Челябинская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_2 
+876) Челябинская область_Инженер (обобщ)_AND is_multiple = 0 AND is_vahta = false_3 
+877) Челябинская область_Инженер (обобщ)_AND is_multiple = 1 AND is_vahta = false_1 
+878) Челябинская область_Инженер (обобщ)_AND is_vahta = true_1 
+879) Челябинская область_Инженер (обобщ)_AND is_vahta = true_2 
+880) Челябинская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_0 
+881) Челябинская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_1 
+882) Челябинская область_Слесарь_AND is_multiple = 0 AND is_vahta = false_2 
+883) Челябинская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_0 
+884) Челябинская область_Слесарь_AND is_multiple = 1 AND is_vahta = false_1 
+885) Челябинская область_Слесарь_AND is_vahta = true_0 
+886) Челябинская область_Слесарь_AND is_vahta = true_1 
+887) Челябинская область_Слесарь_AND is_vahta = true_2 
+888) Челябинская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_0 
+889) Челябинская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_1 
+890) Челябинская область_Медицинская сестра_AND is_multiple = 0 AND is_vahta = false_2 
+891) Челябинская область_Медицинская сестра_AND is_multiple = 1 AND is_vahta = false_0 
+892) Челябинская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_0 
+893) Челябинская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_1 
+894) Челябинская область_Специалист по персоналу_AND is_multiple = 0 AND is_vahta = false_2 
+895) Челябинская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_0 
+896) Челябинская область_Специалист по персоналу_AND is_multiple = 1 AND is_vahta = false_1 
+897) Челябинская область_Специалист по персоналу_AND is_vahta = true_1 
+898) Челябинская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_0 
+899) Челябинская область_Грузчик_AND is_multiple = 0 AND is_vahta = false_1 
+900) Челябинская область_Грузчик_AND is_multiple = 1 AND is_vahta = false_0 
+901) Челябинская область_Грузчик_AND is_vahta = true_0 
+902) Челябинская область_Воспитатель_AND is_multiple = 0 AND is_vahta = false_0 
+903) Челябинская область_Воспитатель_AND is_multiple = 0 AND is_vahta = false_1 
+904) Челябинская область_Воспитатель_AND is_multiple = 0 AND is_vahta = false_2 
+905) Челябинская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_0 
+906) Челябинская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_1 
+907) Челябинская область_Директор магазина_AND is_multiple = 0 AND is_vahta = false_2 
+908) Челябинская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_0 
+909) Челябинская область_Оператор колл-центра_AND is_multiple = 0 AND is_vahta = false_1 
+910) Челябинская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_0 
+911) Челябинская область_Оператор колл-центра_AND is_multiple = 1 AND is_vahta = false_1 
+912) Челябинская область_Программист_AND is_multiple = 0 AND is_vahta = false_0 
+913) Челябинская область_Программист_AND is_multiple = 0 AND is_vahta = false_1 
+914) Челябинская область_Программист_AND is_multiple = 0 AND is_vahta = false_2 
